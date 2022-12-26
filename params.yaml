@@ -1,0 +1,6 @@
+base:
+  project_path: "/home/fatlady/learn_dvc"
+
+data_load:
+  train_dataset: "data/mnist/train"
+  test_dataset: "data/mnist/test"
