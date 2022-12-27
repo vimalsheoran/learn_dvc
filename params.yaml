@@ -4,3 +4,7 @@ base:
 data_load:
   train_dataset: "data/mnist/train"
   test_dataset: "data/mnist/test"
+
+svm:
+  output:
+    fit_results: "reports/svm/fit_results"
